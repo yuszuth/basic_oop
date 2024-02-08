@@ -1,0 +1,5 @@
+startNewDay|11-Feb-2023
+
+createProject|P001|27-Feb-2024|3
+
+listProjects
